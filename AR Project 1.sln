@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{38896196-45FC-2EE6-B3DE-2EBC2F2D6292}") = "AR Project 1", "Assembly-CSharp.csproj", "{60C61020-9F85-AF63-A43A-6D9C217C9D60}"
+EndProject
+Project("{38896196-45FC-2EE6-B3DE-2EBC2F2D6292}") = "AR Project 1", "Assembly-CSharp-Editor.csproj", "{F5DCC53A-F622-AAFB-EEFC-C9B45E26FAD3}"
+EndProject
+Project("{38896196-45FC-2EE6-B3DE-2EBC2F2D6292}") = "AR Project 1", "Assembly-UnityScript-Editor-firstpass.unityproj", "{04491DD9-D4DF-2463-B42D-237201E368DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C61020-9F85-AF63-A43A-6D9C217C9D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C61020-9F85-AF63-A43A-6D9C217C9D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C61020-9F85-AF63-A43A-6D9C217C9D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C61020-9F85-AF63-A43A-6D9C217C9D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DCC53A-F622-AAFB-EEFC-C9B45E26FAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DCC53A-F622-AAFB-EEFC-C9B45E26FAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DCC53A-F622-AAFB-EEFC-C9B45E26FAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DCC53A-F622-AAFB-EEFC-C9B45E26FAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04491DD9-D4DF-2463-B42D-237201E368DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04491DD9-D4DF-2463-B42D-237201E368DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04491DD9-D4DF-2463-B42D-237201E368DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04491DD9-D4DF-2463-B42D-237201E368DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
